@@ -6,7 +6,7 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/rode-website-clone/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://rode-website-clone.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
